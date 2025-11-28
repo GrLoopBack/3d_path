@@ -1,0 +1,9 @@
+{
+  "max_jump_range": 50.0,
+  "filename": "sys_coor2.csv",
+  "loop_back": "Yes",
+  "final_is_last": "No",
+  "timeout_seconds": 10,
+  "improvement_patience": 500,
+  "plot_filename": "route_3d.png"
+}
